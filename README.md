@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img width="500" src="https://github.com/zouyang1230/goks/raw/master/images/logo.jpg">
+    <img width="500" src="images/logo.jpg">
 </div>
 
 
