@@ -13,18 +13,18 @@
 ## 学习书籍（排名不分先后）
 书籍名 | 地址 | 说明
 ------------- | ------------- | -------------
-《Go入门指南》 | [前往地址](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md) | 基础概念的讲解与入门，适合初学者哦。
-《Go 语言编码规范》 | [前往地址](https://golang.org/ref/spec) | 官方规范
-《Go 学习笔记》 | [前往地址](https://github.com/qyuhen/book) | 开源书籍
-《Go语言圣经（英文版）》 | [前往地址](http://www.gopl.io/) | The Go Programming Language 开源书籍
-《Go语言圣经（中文版）》 | [前往地址](https://books.studygolang.com/gopl-zh/) | The Go Programming Language 开源书籍
-《Go 实战开发》 | [前往地址](https://github.com/astaxie/go-best-practice) | 开源书籍
-《Go Web 编程》 | [前往地址](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) | 开源书籍
-《Go 并发编程实战》 | [前往地址](http://www.ituring.com.cn/book/1525) | 全面介绍Go语言基础编程。本书通过5个章节详细地介绍了Go的语言细节和底层实现细节，贯穿于语言层面和源码层面。
-《Go 命令教程》 | [前往地址](https://github.com/hyper0x/go_command_tutorial) | 《Go 并发编程实战》的示例
-《Go SCP》（英文版） | [前往地址](https://checkmarx.gitbooks.io/go-scp/content/) | 开源书籍，关于 GO 安全相关的
-《Effective Go》（golang.org 官方英文版） | [前往地址](https://golang.org/doc/effective_go.html) | 开源书籍
-《Go 语言编程》 | [前往地址](https://www.amazon.cn/dp/B00932YRPA/ref=sr_1_1?ie=UTF8&qid=1530066540&sr=8-1&keywords=go%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B) | 老许（许式伟）的书
+《Go入门指南》 | [Link](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md) | 基础概念的讲解与入门，适合初学者哦。
+《Go 语言编码规范》 | [Link](https://golang.org/ref/spec) | 官方规范
+《Go 学习笔记》 | [Link](https://github.com/qyuhen/book) | 开源书籍
+《Go语言圣经（英文版）》 | [Link](http://www.gopl.io/) | The Go Programming Language 开源书籍
+《Go语言圣经（中文版）》 | [Link](https://books.studygolang.com/gopl-zh/) | The Go Programming Language 开源书籍
+《Go 实战开发》 | [Link](https://github.com/astaxie/go-best-practice) | 开源书籍
+《Go Web 编程》 | [Link](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) | 开源书籍
+《Go 并发编程实战》 | [Link](http://www.ituring.com.cn/book/1525) | 全面介绍Go语言基础编程。本书通过5个章节详细地介绍了Go的语言细节和底层实现细节，贯穿于语言层面和源码层面。
+《Go 命令教程》 | [Link](https://github.com/hyper0x/go_command_tutorial) | 《Go 并发编程实战》的示例
+《Go SCP》（英文版） | [Link](https://checkmarx.gitbooks.io/go-scp/content/) | 开源书籍，关于 GO 安全相关的
+《Effective Go》（golang.org 官方英文版） | [Link](https://golang.org/doc/effective_go.html) | 开源书籍
+《Go 语言编程》 | [Link](https://www.amazon.cn/dp/B00932YRPA/ref=sr_1_1?ie=UTF8&qid=1530066540&sr=8-1&keywords=go%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B) | 老许（许式伟）的书
 
 
 ## 学习资源（排名不分先后）
@@ -62,16 +62,16 @@ Beego | [https://beego.me/](https://beego.me/) | 一个使用 Go 的思维来帮
 ## 社区（排名不分先后）
 名字 | 地址 | 说明
 ------------- | ------------- | -------------
-golangcaff 社区 | [前往地址](https://golangcaff.com/) | 社区
-studygolang Go语言中文网 | [前往地址](https://studygolang.com/) | 有许多资源和图书
+golangcaff 社区 | [Link](https://golangcaff.com/) | 社区
+studygolang Go语言中文网 | [Link](https://studygolang.com/) | 有许多资源和图书
 
 
 ## 名人堂（排名不分先后）
 名字 | 地址 | 说明
 ------------- | ------------- | -------------
-Unknwon（Jiahua Chen）  | [前往地址](https://github.com/Unknwon) | 开源贡献者
-hyper0x（郝林）  | [前往地址](https://github.com/Unknwon) | 图灵原创技术图书《Go并发编程实战》和在线免费教程《Go命令教程》的作者
-Yang Luo  | [前往地址](https://github.com/hsluoyz) | 开源贡献者
+Unknwon（Jiahua Chen）  | [Link](https://github.com/Unknwon) | 开源贡献者
+hyper0x（郝林）  | [Link](https://github.com/Unknwon) | 图灵原创技术图书《Go并发编程实战》和在线免费教程《Go命令教程》的作者
+Yang Luo  | [Link](https://github.com/hsluoyz) | 开源贡献者
 
 
 
