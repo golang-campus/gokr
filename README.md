@@ -4,7 +4,7 @@
 </div>
 
 
-<h2 align="center">Golang技能汇总 Golang Knowledge Structure</h2>
+<h2 align="center">Golang技能资源汇总 Golang Knowledge Resource</h2>
 
 欢迎 fork、pr、star，如遇资源失效，可提 issues 感谢：）   
 
