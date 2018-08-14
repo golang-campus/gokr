@@ -50,6 +50,8 @@
     - [《Go 语言第一课》（慕课网）郝林](https://www.imooc.com/learn/345)
     - [《Go 编程基础》无闻](https://github.com/Unknwon/go-fundamental-programming)
     - [《Go 编程基础》无闻（高清版）](https://golangcaff.com/docs/go-fundamental-programming)
+    - [《Go Web 基础》无闻](https://github.com/Unknwon/go-web-foundation)
+    - [《Go 名库讲解》无闻](https://github.com/Unknwon/go-rock-libraries-showcases)
     - [go-rock-libraries-showcases（Google 出品的 Go 语言的第三方库进行评测讲解的集博客、示例与语音视频为一体的综合教程）](http://www.runoob.com/go/go-tutorial.html)
     - [菜鸟教程-Go](http://www.runoob.com/go/go-tutorial.html)
 
@@ -66,6 +68,7 @@ Beego | [https://beego.me/](https://beego.me/) | 一个使用 Go 的思维来帮
 ------------- | ------------- | -------------
 golangcaff 社区 | [Link](https://golangcaff.com/) | 社区
 studygolang Go语言中文网 | [Link](https://studygolang.com/) | 社区
+Golang 中国 | [Link](https://golangtc.com/) | 社区
 
 
 ## 名人堂（排名不分先后）
