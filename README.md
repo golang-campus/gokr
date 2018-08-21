@@ -79,6 +79,7 @@ Golang 中国 | [Link](https://golangtc.com/) | 社区
 Yang Luo  | [Link](https://github.com/hsluoyz) | 开源贡献者、Creator of @casbin and Npcap
 hyper0x（郝林）  | [Link](https://github.com/hyper0x) | 《Go并发编程实战》和《Go命令教程》的作者
 Unknwon（Jiahua Chen）  | [Link](https://github.com/Unknwon) | 开源贡献者
+astaxie  | [Link](https://github.com/astaxie) | 开源贡献者
 
 
 
