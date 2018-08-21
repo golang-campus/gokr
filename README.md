@@ -27,6 +27,7 @@
 《Go 语言编程》 | [Link](https://www.amazon.cn/dp/B00932YRPA/ref=sr_1_1?ie=UTF8&qid=1530066540&sr=8-1&keywords=go%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B) | 老许（许式伟）的书
 《Go 语言高级编程》 | [Link](https://github.com/chai2010/advanced-go-programming-book) | 进阶书
 《Go 设计模式(英文版)》 | [Link](https://legacy.gitbook.com/book/hxangel/go-patterns/details) | 进阶书
+《Go 语言实战》(英文：Go In Action) | [Link](https://studygolang.com/book/40) | 进阶书
 
 
 ## 学习资源（排名不分先后）
