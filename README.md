@@ -54,6 +54,7 @@
     - [《Go Web 基础》无闻](https://github.com/Unknwon/go-web-foundation)
     - [《Go 名库讲解》无闻](https://github.com/Unknwon/go-rock-libraries-showcases)
     - [go-rock-libraries-showcases（Google 出品的 Go 语言的第三方库进行评测讲解的集博客、示例与语音视频为一体的综合教程）](http://www.runoob.com/go/go-tutorial.html)
+    - [Google资深工程师深度讲解Go语言（付费）](http://coding.imooc.com/class/180.html)
     - [菜鸟教程-Go](http://www.runoob.com/go/go-tutorial.html)
 
 
